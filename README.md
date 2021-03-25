@@ -17,6 +17,9 @@
         ├── Pipfile
         ├── Pipfile.lock
         ├── app
+            ├── __init__.py
+            ├── config.py
+            ├── main.py
     ├── project-service
         ├── Dockerfile
         ├── Pipfile
@@ -26,7 +29,12 @@
             ├── Dockerfile
             ├── Pipfile
             ├── Pipfile.lock
-            ├── app
+            ├── api
+                ├── __init__.py
+                ├── db.py
+                ├── processes.py
+                ├── projects.py
+                ├── schema.py
     ├── .dockerignore
     ├── .env.example
     ├── .gitignore
