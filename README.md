@@ -1,10 +1,10 @@
-# [ICIFA Portal v2.1](https://github.com/UjuziCode/icifa-portal-v2.1)
-###### Online Training Portal for Institute of Certified Investment and Financial Analysts.
+# [WEMAKEIMPACT(https://github.com/aldasmallthings/.1)
+###### WEMAKE IMPACT non profit organisation
 
 
 ### Technology Stack
 * [FastAPI](https://fastapi.tiangolo.com/), 
-* [Python](https://www.python.org/downloads/release/python-3710) Python 3.7.10,
+* [Python](https://www.python.org/downloads/release/python-3710) Python 3.8,
 * [Pipenv](https://pipenv-fork.readthedocs.io/en/latest) to manage all dependencies (and sub-dependencies)
 
 
